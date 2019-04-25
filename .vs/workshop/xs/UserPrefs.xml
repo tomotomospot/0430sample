@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5BBD2034-AA53-E70B-E642-96CCDD31AE5C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EasyMove.cs">
+    <Files>
+      <File FileName="Assets/EasyMove.cs" Line="32" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
